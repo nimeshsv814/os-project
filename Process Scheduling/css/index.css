@@ -1,28 +1,28 @@
 h1 {
-    font-size: 40px;
+  font-size: 40px;
 }
 
-body{
-    background-color: grey;
+body {
+  background-color: white;
 }
 
 body > div > ul {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body > div > ul > li {
-    width: 100%;
-    padding: 10px;
-    font-size: 30px;
-    cursor: pointer;
-    text-align: center;
-    border-style: solid;
-    font-family: 'Monotype Cursiva', cursive;
+  width: 100%;
+  padding: 10px;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  border-style: solid;
+  font-family: "Monotype Cursiva", cursive;
 }
 
-#timer{
-    width: 805px;
-    position:relative;
-    margin: auto;
+#timer {
+  width: 805px;
+  position: relative;
+  margin: auto;
 }
